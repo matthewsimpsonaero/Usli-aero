@@ -108,9 +108,9 @@
   <SimulationList>
     <Simulation>
       <SustainerEngine>L1390G  (Aerotech)</SustainerEngine>
-      <SustainerLaunchWt>43.2</SustainerLaunchWt>
-      <SustainerNozzleDiameter>2.4</SustainerNozzleDiameter>
-      <SustainerCG>65.19</SustainerCG>
+      <SustainerLaunchWt>44.6</SustainerLaunchWt>
+      <SustainerNozzleDiameter>1.25</SustainerNozzleDiameter>
+      <SustainerCG>60.81</SustainerCG>
       <SustainerIgnitionDelay>0</SustainerIgnitionDelay>
       <Booster1LaunchWt>0</Booster1LaunchWt>
       <Booster1SeparationDelay>0</Booster1SeparationDelay>
@@ -124,9 +124,9 @@
       <Booster2NozzleDiameter>0</Booster2NozzleDiameter>
       <IncludeBooster2>False</IncludeBooster2>
       <FlightTime>0</FlightTime>
-      <TimetoApogee>17.67031</TimetoApogee>
-      <MaxAltitude>4735.372</MaxAltitude>
-      <MaxVelocity>581.342</MaxVelocity>
+      <TimetoApogee>17.0803</TimetoApogee>
+      <MaxAltitude>4385.693</MaxAltitude>
+      <MaxVelocity>562.0992</MaxVelocity>
       <OptimumWt>4.815</OptimumWt>
       <OptimumMaxAlt>4.815</OptimumMaxAlt>
     </Simulation>
