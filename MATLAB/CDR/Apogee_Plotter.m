@@ -1,7 +1,7 @@
 % Matthew Simpson
 % Apogee Plotter
 
-data = readmatrix('Rocketpy_Output.csv');
+data = readmatrix('Rocketpy_Output2.csv');
 
 time  = data(:,1);
 altitude = (data(:,4)*3.28084)-816.392;
@@ -14,7 +14,7 @@ grid minor
 xlabel('Time (s)')
 ylabel('Altitude (ft.)')
 title("Full Scale Rocketpy Altitude Analysis")
-xline(16.266,'b--',LineWidth=2)
+xline(16.05,'b--',LineWidth=2)
 legend('Flight Profile','Apogee')
 
 Velocity = sqrt(data(:,5).^2 + data(:,6).^2 + data(:,7).^2);
